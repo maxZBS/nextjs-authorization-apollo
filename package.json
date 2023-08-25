@@ -1,0 +1,24 @@
+{
+	"name": "next-auth-by-red-group",
+	"author": {
+		"name": "Max [RED Group]",
+		"url": "https://www.youtube.com/c/REDGroup"
+	},
+	"version": "1.1.1",
+	"private": true,
+	"scripts": {
+		"dev": "next dev",
+		"build": "next build",
+		"start": "next start",
+		"lint": "next lint"
+	},
+	"dependencies": {
+		"@types/node": "20.4.8",
+		"@types/react": "18.2.19",
+		"@types/react-dom": "18.2.7",
+		"next": "13.4.13",
+		"react": "18.2.0",
+		"react-dom": "18.2.0",
+		"typescript": "5.1.6"
+	}
+}
